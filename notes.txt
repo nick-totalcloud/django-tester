@@ -1,0 +1,6 @@
+Resources used to make this:
+-https://djangoforbeginners.com/hello-world/
+-https://wiki.nixos.org/wiki/Python
+
+0. Created shell.nix, and entered environment with nix-shell
+1. ran `django-admin startproject django_project .`
